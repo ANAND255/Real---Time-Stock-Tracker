@@ -61,8 +61,10 @@ For example, to add Netflix (`NFLX`):
 **Before:**
 ```python
 STOCK_SYMBOLS = ["AAPL", "MSFT", "GOOGL", "TSLA"]
+```
 
 **After:**
 ```python
 STOCK_SYMBOLS = ["AAPL", "MSFT", "GOOGL", "TSLA", "NFLX"]
+```
 
